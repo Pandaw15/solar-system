@@ -1,10 +1,10 @@
 [gd_scene format=3 uid="uid://bmg25hc12yjn8"]
 
-[ext_resource type="Script" uid="uid://bfguiebi4chjo" path="res://body.gd" id="1_i1ka3"]
-[ext_resource type="Script" uid="uid://qe3xsr7q78f1" path="res://system.gd" id="1_m3jav"]
-[ext_resource type="Texture2D" uid="uid://w4xalg0mfh7m" path="res://sun_spritesheet.png" id="3_uxn6b"]
-[ext_resource type="Script" uid="uid://bhp73rpfjlchr" path="res://trail.gd" id="4_1exhk"]
-[ext_resource type="Texture2D" uid="uid://dbxg4jv0cr3m2" path="res://earth.png" id="4_q6dkd"]
+[ext_resource type="Script" uid="uid://bfguiebi4chjo" path="res://scripts/body.gd" id="1_i1ka3"]
+[ext_resource type="Script" uid="uid://qe3xsr7q78f1" path="res://scripts/system.gd" id="1_m3jav"]
+[ext_resource type="Texture2D" uid="uid://w4xalg0mfh7m" path="res://textures/sun_spritesheet.png" id="3_uxn6b"]
+[ext_resource type="Script" uid="uid://bhp73rpfjlchr" path="res://scripts/trail.gd" id="4_1exhk"]
+[ext_resource type="Texture2D" uid="uid://dbxg4jv0cr3m2" path="res://textures/earth.png" id="4_q6dkd"]
 [ext_resource type="Theme" uid="uid://b5u01fl1xtwmj" path="res://default_theme.tres" id="6_1exhk"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1exhk"]
